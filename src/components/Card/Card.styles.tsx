@@ -116,6 +116,8 @@ export const Icons = styled.button`
   border-radius: .5em;
 `;
 
+export const deleteItemIcon = styled.img``;
+
 export const useStyles = () => ({
   price: {
     marginLeft: 'margin-left: 2.5px;',

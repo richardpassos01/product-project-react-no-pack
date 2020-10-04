@@ -34,3 +34,5 @@ export const Icon = styled.div`
   align-items: center;
   font-size: 19px;
 `;
+
+export const ButtonIcon = styled.img``;

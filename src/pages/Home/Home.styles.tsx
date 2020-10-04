@@ -64,6 +64,8 @@ export const Actions = styled.div`
   }
 `;
 
+export const HomeHeaderIcon = styled.img``;
+
 export const useStyles = () => ({
   logo: {
     marginBottom: '2rem',

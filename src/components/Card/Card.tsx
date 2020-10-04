@@ -68,7 +68,7 @@ const Card: React.FC<{
               />
             </styles.Icons>
             <styles.Icons onClick={deleteItem}>
-              <img src={TrashIcon} />
+              <styles.deleteItemIcon src={TrashIcon} />
             </styles.Icons>
           </styles.ActionsContent>
         </styles.Actions>

@@ -17,7 +17,7 @@ const Button = ({
         {name}
       </styles.Content>
       <styles.Icon>
-        <img src={Icon} />
+        <styles.ButtonIcon src={Icon} />
       </styles.Icon>
     </styles.Button>
   </>
