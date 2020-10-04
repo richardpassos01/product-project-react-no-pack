@@ -1,3 +1,8 @@
+Product Project
+https://product-project-frontend.herokuapp.com/
+
+
+
 Iniciando:
 1 - npm install
 2 - criar o arquivo .env e preenche-lo conforme o env.example
@@ -12,3 +17,4 @@ Para funcionar o deploy no heroku deve seguir os passos abaixo:
 
 2 - Adicionar o script abaixo dentro do package.json da aplicaçao.
     "webpack": "4.42.0"
+
