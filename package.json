@@ -1,6 +1,6 @@
 {
-  "homepage": "",
-  "name": "code-base",
+  "homepage": "https://product-project-frontend.herokuapp.com/",
+  "name": "product-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
