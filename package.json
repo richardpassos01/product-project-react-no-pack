@@ -55,7 +55,7 @@
     "serve": "^11.3.2",
     "styled-components": "^5.1.1",
     "typescript": "^3.7.5",
-    "webpack": "^4.44.2"
+    "webpack": "4.42.0"
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5",
