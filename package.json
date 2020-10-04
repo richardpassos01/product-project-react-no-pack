@@ -52,7 +52,10 @@
     "react-i18next": "^11.6.0",
     "react-router": "^5.2.0",
     "serve": "^11.3.2",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "webpack": "^1.14.0",
+    "webpack-combine-loaders": "^2.0.3",
+    "webpack-dev-server": "^1.16.2"
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5",
